@@ -20,16 +20,21 @@ Network fundamentals
 
 Projects
 
+
 Failed Login Investigation (Coming Soon)
+
 Analyzing authentication logs to detect suspicious login activity and potential brute-force attacks.
+
 
 Python Log Parser (Coming Soon)
 
 A Python tool to process and analyze log files for security insights.
 
+
 SQL Security Investigation (Coming Soon)
 
 Using SQL queries to identify anomalies and investigate security events.
+
 
 Network Traffic Analysis (Coming Soon)
 
