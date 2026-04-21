@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
 Hands-on cybersecurity projects, labs, and investigations
-Professional Statement
 
+Professional Statement
 Aspiring cybersecurity analyst with a strong interest in security operations and threat detection. I am developing hands-on skills in Linux, SQL, and Python, alongside analytical thinking and problem-solving abilities to investigate data, identify patterns, and detect potential security threats.
 I value protecting systems and people, and I am committed to acting with integrity and responsibility in all aspects of security work. By applying my skills and attention to detail, I aim to support organizations in identifying vulnerabilities, responding to security incidents, and maintaining secure and reliable systems.
 
