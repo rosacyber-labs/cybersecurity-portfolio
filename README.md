@@ -9,9 +9,13 @@ I value protecting systems and people, and I am committed to acting with integri
 Skills (In Progress)
 
 Linux
+
 SQL
+
 Python
+
 Log analysis
+
 Network fundamentals
 
 Projects
